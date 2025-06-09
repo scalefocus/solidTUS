@@ -6,10 +6,10 @@
     <RootNamespace>SolidTUS</RootNamespace>
     <AssemblyName>SolidTUS</AssemblyName>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Authors>Johnny Kristian Moeberg Sørensen</Authors>
+    <Authors>Johnny Kristian Moeberg Sørensen, Scalefocus Team</Authors>
     <Description>An implementation of the TUS protocol for dotnet</Description>
-    <PackageProjectUrl>https://github.com/Newex/solidTUS</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Newex/solidTUS</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/scalefocus/solidTUS</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/scalefocus/solidTUS</RepositoryUrl>
     <IsTrimmable>true</IsTrimmable>
     <EnableTrimAnalyzer>true</EnableTrimAnalyzer>
     <EnableSingleFileAnalyzer>true</EnableSingleFileAnalyzer>
